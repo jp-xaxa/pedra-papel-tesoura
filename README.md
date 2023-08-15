@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O jogo "Pedra, Papel ou Tesoura" é uma recriação digital do jogo de mão clássico, no qual os jogadores escolhem entre três opções (pedra, papel ou tesoura) e o vencedor é determinado pelas regras tradicionais do jogo.
 
-- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/pedra-papel-tesoura/)
 
 <h1 align="center">
   Funcionalidades
