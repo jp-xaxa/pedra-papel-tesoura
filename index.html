@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Pedra x Papel x Tesoura</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <script></script>
+  </head>
+  <body>
+    <section id="container">
+      <!--Titulo no cabeçalho-->
+      <main>
+        <header>
+          <h2>Pedra x Papel x Tesoura</h2>
+        </header>
+        
+        <!--Container que contem as imagens para o jogo-->
+        <div class="bloco">
+          <div class="player">
+            <h3>Você</h3>
+            <div><img opt ="pedra" src="./assets/rock.png" alt="Imagem Pedra." /></div>
+            <div><img opt ="papel" src="./assets/paper.png" alt="Imagem Pedra." /></div>
+            <div><img opt ="tesoura" src="./assets/scisor.png" alt="Imagem Pedra." /></div>
+          </div>
+          
+          <div class="enemy">
+            <h3>Inimigo</h3>
+            <div><img opt ="pedra" src="./assets/rock.png" alt="Imagem Pedra." /></div>
+            <div><img opt ="papel" src="./assets/paper.png" alt="Imagem Pedra." /></div>
+            <div><img opt ="tesoura" src="./assets/scisor.png" alt="Imagem Pedra." /></div>
+          </div>
+        </div>
+        
+        <!--Container que contem os marcadores-->
+        <section id="marcador">
+          <!--Caixa de Vitorias-->
+          <div>
+            <span id="vitoria">0</span>
+            <span class="titulo">Vitorias</span>
+          </div>
+          <!--Caixa de empates-->
+          <div>
+            <span id="empate">0</span>
+            <span class="titulo">Empates</span>
+          </div>
+          <!--Caixa de derrotas-->
+          <div>
+            <span id="derrota">0</span>
+            <span class="titulo">Derrotas</span>
+          </div>   
+        </section>
+        
+        <!--footer que contem o botão para reiniciar o jogo-->
+        <button>Reiniciar</button>
+      </main>
+    
+    <script src="script.js"></script>
+    </body>
+    </html>

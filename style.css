@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+#container {
+  background: #5d9b9b;
+  height: 100%;
+}
+
+main {
+  max-width: 55rem;
+  padding: 1rem;
+  display: grid;
+  margin: auto;
+}
+
+h2 {
+  display: flex;
+  color: black;
+  font-size: 4.8rem;
+  margin: 1rem 0 2rem;
+  justify-content: center;
+}
+
+.bloco {
+  display: flex;
+  gap: 10rem;
+  justify-content: center;
+
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 0.8rem 1rem rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  font-size: 1.8rem;
+  padding: 1rem;
+  margin-left: 1.25rem;
+}
+
+.player img,
+.enemy img {
+  max-width: 100px;
+  opacity: 0.3;
+
+  padding: 1rem;
+}
+
+.player img {
+  cursor: pointer;
+}
+
+#marcador {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+  height: 10rem;
+  width: 40rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.8rem 1rem rbga(0, 0, 0, 0.5);
+}
+
+#marcador div {
+  border-color: blanchedalmond;
+  height: 5rem;
+  width: 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background: rgba(5, 5, 5, 0.9);
+  box-shadow: 0.5rem 0.5rem 1.5rem rgba(0, 0, 0, 0.7);
+  border-radius: 0.7rem;
+  letter-spacing: 0.3rem;
+}
+
+#horas,
+#minutos,
+#segundos {
+  font-size: 2rem;
+}
+
+button {
+  height: 5rem;
+  width: 10rem;
+  margin: auto;
+  font-size: 1.5rem;
+
+  box-shadow: 0.5rem 0.5rem 1.5rem rgba(0, 0, 0, 0.7);
+  border-radius: 0.7rem;
+  letter-spacing: 0.2rem;
+}
