@@ -1,7 +1,7 @@
 <h1 align="center">Jogo ✊ 🆚 ✋ 🆚 ✌️</h1>
 
 <p align="center">
-Este repositório contém a implementação de uma página web interatica que oferece aos usuários a oportuniadde de jogar o clássico jogo "Pedra, Papel ou Tesoura". Este projeto faz parte do curso de JavaScript Completo ministrado pela <a href="https://cursos.dankicode.com/">Daki Code</a>, visando aprofundar as hanilidades em programação front-end.
+Este repositório contém a implementação de uma página web interativa que oferece aos usuários a oportuniadde de jogar o clássico jogo "Pedra, Papel ou Tesoura". Este projeto faz parte do curso de JavaScript Completo ministrado pela <a href="https://cursos.dankicode.com/">Daki Code</a>, visando aprofundar as hanilidades em programação front-end.
 </p>
 
 <p align="center">
