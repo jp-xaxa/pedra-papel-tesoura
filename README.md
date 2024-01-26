@@ -7,7 +7,11 @@ Este repositório contém a implementação de uma página web interatica que of
 <p align="center">
   <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🔖-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#⚙️-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img alt="projeto Jogo Pedra Papel ou Tesoura" src="./assets/projeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -24,14 +28,6 @@ O jogo "Pedra, Papel ou Tesoura" é uma recriação digital do jogo de mão clá
 
 - [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/devlinks)
 
-<h1 align="center">
-  Funcionalidades
-</h1>
+## ⚙️ Funcionalidades
 
 A implementação abrange uma interface de usuário de design simples e amigável. Além disso, a aplicação inclui a funcionalidade de contabilizar as vitórias, derrotas e empates do usuário, juntamente com um botão dedicado para redefinir essas estatísticas.
-
-## 🔖 Layout
-
-<p align="center">
-  <img alt="projeto Jogo Pedra Papel ou Tesoura" src="./assets/layout.png" width="100%">
-</p>
