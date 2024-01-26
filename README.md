@@ -1,7 +1,7 @@
 <h1 align="center">Jogo ✊ 🆚 ✋ 🆚 ✌️</h1>
 
 <p align="center">
-Este repositório contém a implementação de uma página web interatica que oferece aos usuários a oportuniadde de jogar o clássico jogo "Pedra, Papel ou Tesoura". Este projeto faz parte do curso de JavaScript Completo ministrado pela <a href="https://cursos.dankicode.com/">Daki Code</a>, visando aprofundar as hanilidades em programação front-end.
+Este repositório contém a implementação de uma página web interativa que oferece aos usuários a oportuniadde de jogar o clássico jogo "Pedra, Papel ou Tesoura". Este projeto faz parte do curso de JavaScript Completo ministrado pela <a href="https://cursos.dankicode.com/">Daki Code</a>, visando aprofundar as hanilidades em programação front-end.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O jogo "Pedra, Papel ou Tesoura" é uma recriação digital do jogo de mão clássico, no qual os jogadores escolhem entre três opções (pedra, papel ou tesoura) e o vencedor é determinado pelas regras tradicionais do jogo.
 
-- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/pedra-papel-tesoura/)
 
 ## ⚙️ Funcionalidades
 
